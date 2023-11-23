@@ -4,7 +4,12 @@
     box-sizing: border-box;
     list-style-type: none !important;
     text-decoration: none!important;
-    font-family: comfortaa;
+    font-family: comfortaaa;
+}
+
+@font-face {
+    font-family: comfortaaa;
+    src: url(./Comfortaa-VariableFont_wght.ttf);
 }
 
 html,body{
